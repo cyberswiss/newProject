@@ -1,1 +1,1 @@
-# newProject
+A node js project using express to make a e commerce website having encrypted production grade authentication and own data storage type facility implemented using core modules of node js that saves the new data in a json file.
